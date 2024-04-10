@@ -1,9 +1,7 @@
 
-Double link list in awk. The implementation uses awk a multidimensional
-array as a C-like structure.
+Double link list in awk. The implementation uses awk multidimensional array as a C-like structure.
 
-With such approach it's possible to model any dynamic data structures
-e.g lists, binary search tries (balanced and not balanced).
+With such approach it's possible to model any dynamic data structures e.g lists, binary search tries (balanced and not balanced).
 
 There are a set of function with unit tests.
 
