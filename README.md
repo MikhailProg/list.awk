@@ -3,7 +3,7 @@ Double link list in awk. The implementation uses awk multidimensional array as a
 
 With such approach it's possible to model any dynamic data structures e.g lists, binary search tries (balanced and not balanced).
 
-There are a set of function with unit tests.
+There are a set of functions and unit tests.
 
 ```
 $ chmod a+x list.awk
